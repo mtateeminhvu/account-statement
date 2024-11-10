@@ -59,3 +59,18 @@ Ensure that you have the following installed:
 </p>
 
 
+### Search for transaction information
+
+<p align="center">
+  <img src="./Search.jpg" >
+</p>
+
+### Statistics by day
+
+<p align="center">
+  <img src="./Statistics by day.jpg" >
+</p>
+
+
+
+
