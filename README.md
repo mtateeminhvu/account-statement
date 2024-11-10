@@ -84,6 +84,14 @@ Please enter search word: <keyword>
   <img src="./Statistics by day.jpg" >
 </p>
 
+### Some other features
 
+#### Find transaction information with the highest amount
+<p align="center">
+  <img src="./max.jpg" >
+</p>
 
-
+#### Find transaction information with the smallest amount
+<p align="center">
+  <img src="./min.jpg" >
+</p>
