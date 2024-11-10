@@ -19,7 +19,11 @@ Ensure that you have the following installed:
 ### Installation
 1. Clone the repository or download the source code.
 2. Ensure the required packages are installed by running:
-    pip install PyPDF2
+
+```javascript 
+pip install PyPDF2
+```
+    
 
 ### File Structure
 - main_script.py: The main Python script containing all functions and logic.
@@ -30,14 +34,20 @@ Ensure that you have the following installed:
 ### Usage
 1. Place your input.pdf in the same directory as main_script.py.
 2. Run the script using the command:
-    python main_script.py
+```javascript 
+python main_script.py
+```
+    
 3. If output.csv already exists, it will read data directly from the CSV. If not, the script will generate it by parsing input.pdf.
 4. The script will load the data, and you can search for transactions by entering keywords when prompted:
-    Please enter search word: <keyword>
 
 ```javascript 
-console.log('Code Tab B');
+Please enter search word: <keyword>
 ```
+    
+
+
+
 ### How It Works
 
 - PDF Parsing: The script reads the content of the provided PDF and splits the text based on specific patterns, isolating transaction data.
